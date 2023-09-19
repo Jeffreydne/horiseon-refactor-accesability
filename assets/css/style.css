@@ -91,7 +91,8 @@ aside {
     color: #ffffff;
 }
 
-aside h3 {
+aside h2 {
+    font-size: 1.17em;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -163,6 +164,6 @@ footer {
     text-align: center;
 }
 
-footer h3 {
+footer h2 {
     font-size: 20px;
 }
