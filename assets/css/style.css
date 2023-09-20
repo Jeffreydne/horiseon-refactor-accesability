@@ -111,7 +111,6 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 /* Merged all the css for these 3 img elements into one block as their css is the same*/
 article img {
     max-height: 200px;
