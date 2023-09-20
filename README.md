@@ -1,5 +1,7 @@
 # horiseon-refactor-accesability
 
+---
+
 ## Description,
 Refactored an existing website to improve accessibility issues, code optimization and SEO. 
 
@@ -10,3 +12,10 @@ Refactored an existing website to improve accessibility issues, code optimizatio
 - Changed a class name to background-image and added aria-label for accessabilty to main image at top
 
 - added alt attributes to multiple images for accessability
+
+## Usage
+The 3 main products of Horiseon Social Solution Services are Search Engine Optimization, Online Reputation Management and Social Media Marketing as exolained on the website home page seen on this screenshot
+
+```md
+![alt text](assets/images/Horiseon-screenshot.png)
+```
