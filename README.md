@@ -14,8 +14,11 @@ Refactored an existing website to improve accessibility issues, code optimizatio
 - added alt attributes to multiple images for accessability
 
 ## Usage
-The 3 main products of Horiseon Social Solution Services are Search Engine Optimization, Online Reputation Management and Social Media Marketing as exolained on the website home page seen on this screenshot
+The 3 main products of Horiseon Social Solution Services are Search Engine Optimization, Online Reputation Management and Social Media Marketing as explained on the website home page seen on this screenshot
 
 ```md
 ![alt text](assets/images/Horiseon-screenshot.png)
 ```
+
+##Credits
+The original website provided by the excellent staff at UC Berkeley Extension Full Stack Bootcamp
