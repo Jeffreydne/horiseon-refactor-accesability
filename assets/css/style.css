@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*changed class to header, the semantic element name*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*changed element name to header, the semantic element name*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*changed class header to semantic element name*/
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/*changed element to nav semantic element name*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*changed element to nav semantic element name*/
 nav ul {
     list-style-type: none;
 }
-
+/*changed element to nav semantic element name*/
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -85,24 +85,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*changed element to aside, semantic element name. Also merged all the css for these 3 aside elements into one block as their css is the same*/
 aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Merged all the css for these 3 h2 elements into one block as their css is the same. All heading tags below h1 changed to h2 as they are all sub heading to the main page h1, and none of them is a subheading of any of the others*/
 aside h2 {
     font-size: 1.17em;
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Merged all the css for these 3 img elements into one block as their css is the same*/
 aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*changed element to article, semantic element name. Also merged all the css for these 3 article elements into one block as their css is the same*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,58 +112,23 @@ article {
     color: #ffffff;
 }
 
-article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+/* Merged all the css for these 3 img elements into one block as their css is the same*/
 article img {
     max-height: 200px;
 }
-
-article img {
-    max-height: 200px;
-}
-
-article img {
-    max-height: 200px;
-}
-
+/* Merged all the css for these 3 h2 elements into one block as their css is the same. All heading tags below h1 changed to h2 as they are all sub heading to the main page h1, and none of them is a subheading of any of the others*/
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*changed element to footer, semantic element name. */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* All heading tags below h1 changed to h2 as they are all sub heading to the main page h1, and none of them is a subheading of any of the others. */
 footer h2 {
     font-size: 20px;
 }
