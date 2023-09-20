@@ -2,7 +2,7 @@
 
 ---
 
-## Description,
+## Description
 Refactored an existing website to improve accessibility issues, code optimization and SEO. 
 
 -The old code did not use semantic element naming. Division elements replaced with header, footer, article and aside elements.
