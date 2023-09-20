@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/*changed class name for better accessability*/
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
