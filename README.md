@@ -14,7 +14,7 @@
 
 ## Description
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://jeffreydne.github.io/horiseon-refactor-accesability/)
 
 Refactored an existing website to improve accessibility issues, code optimization and SEO. 
 
