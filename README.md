@@ -74,11 +74,13 @@ The 3 main products of Horiseon Social Solution Services are Search Engine Optim
 
 During this exercise I learned about accessability standards including:
 
-* the use of semantic elements such as article, aside, header, footer, nav and sections which better explain what an element is being used for which helps both screen readers and for Search Engine Optimization
+* the use of semantic elements such as article, aside, header, footer, nav and section, which better explain what an element is being used for, which in turn helps both screen readers and in Search Engine Optimization
 
-* using the alt attribute for images and aria-lable and other aria attributes to aid in this endevor for background images and other elements where the alt tag cannot be used to help people with vision oimpairment to understand non text elements
+* using the alt attribute for images and aria-label and other aria attributes to aid in this endevor, for background images and other elements where the alt tag cannot be used, to help people with vision impairment to understand non text elements
 
-* There was also a great deal of code duplication in the CSS which I was able to refactor to conform to the dry principle (Don't Repeat Yourself) 
+* there was also a great deal of code duplication in the CSS which I was able to refactor to conform to the dry principle (Don't Repeat Yourself) 
+
+* how to write a professional README.md file
 
 ---
 
