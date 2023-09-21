@@ -81,6 +81,19 @@ During this exercise I learned about accessability standards including:
 * There was also a great deal of code duplication in the CSS which I was able to refactor to conform to the dry principle (Don't Repeat Yourself) 
 
 ---
+
+## Author Info
+
+```md
+### Jeffrey Nelson
+
+
+* Portfolio(coming soon)
+* [LinkedIn](https://www.linkedin.com/in/jeffrey-nelson13/)
+* [Github](https://github.com/Jeffreydne)
+```
+
+---
 ## Credits
 
 The original website, and the table of technology used  in this README.md were both provided by the excellent staff at UC Berkeley Extension Full Stack Bootcamp
