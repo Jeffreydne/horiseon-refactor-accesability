@@ -98,4 +98,4 @@ During this exercise I learned about accessability standards including:
 ---
 ## Credits
 
-The original website, and the table of technology used  in this README.md were both provided by the excellent staff at UC Berkeley Extension Full Stack Bootcamp
+This homework was originially turned by me in September 2023 for the fulltime bootcamp that I was enrolled in.  I transferred out of the fulltime bootcamp on September 25th and transferred into the parttime bootcamp. The original website, and the table of technology used  in this README.md were both provided by the excellent staff at UC Berkeley Extension Full Stack Bootcamp
